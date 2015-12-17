@@ -1,0 +1,27 @@
+{
+  "name": "mboilerplate",
+  "authors": [
+    "fernando monteiro <fernando@newaeonweb.com.br>"
+  ],
+  "description": "simple mobile boilerplate build with AngularJS, Cordova",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "mobile",
+    "mobile",
+    "first",
+    "boilerplate"
+  ],
+  "license": "MIT",
+  "homepage": "github.com/newaeonweb/mboilerplate",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
